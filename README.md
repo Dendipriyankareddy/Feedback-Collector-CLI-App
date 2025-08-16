@@ -9,7 +9,11 @@ The **Feedback Collector App** is a simple feedback system that allows users to 
 - Submit comments and feedback after logging in.
 - View a list of all submitted feedback in a table (using a `Treeview` widget).
 - "Like" comments from other users.
-  
+
+## Screenshots:
+![Screenshot 2025-08-16 095931 login](https://github.com/user-attachments/assets/a9ce028a-9772-45ac-9e85-0564721a83b4)
+![Screenshot 2025-08-16 100119 logged in](https://github.com/user-attachments/assets/c89fa5d3-cb7a-4b56-b813-aac9715f08fa)
+ 
 ## Features
 
 ### Login and Registration
@@ -106,5 +110,6 @@ The database is automatically created when the app is run for the first time, us
 ---
 
 Enjoy using the Feedback Collector App! Check the `analysis` folder for instructions on how to analyze the feedback.
+
 
 
