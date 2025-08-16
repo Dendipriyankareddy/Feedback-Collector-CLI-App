@@ -60,7 +60,7 @@ The **Feedback Collector App** is a simple feedback system that allows users to 
 1. **Clone the repository** or download the code.
 
    ```bash
-   git clone https://github.com/HenryKong112/Feedback-Collector.git
+   https://github.com/Dendipriyankareddy/Feedback-Collector-CLI-App.git
    ```
 2. **Install the dependencies**:
    - If you don't have `pandas`, install it using:
@@ -106,4 +106,5 @@ The database is automatically created when the app is run for the first time, us
 ---
 
 Enjoy using the Feedback Collector App! Check the `analysis` folder for instructions on how to analyze the feedback.
+
 
